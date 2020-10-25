@@ -1,0 +1,37 @@
+baseURL         = "https://cpl.li/"
+languageCode    = "en-us"
+title           = "Alexandru-Paul Copil"
+theme           = "archie"
+copyright       = "© Alexandru-Paul Copil"
+paginate        = 10
+
+
+[params]
+    mode            = "light"
+    useCDN          = false
+    subtitle        = "Software, Hardware, Tech, Politics, Logistics, and more"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "All posts"
+    url = "/posts"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
+[[menu.main]]
+name = "Github"
+url = "https://github.com/cpl"
+weight = 5
