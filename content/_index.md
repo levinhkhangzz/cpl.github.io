@@ -7,7 +7,7 @@ author = "Alexandru-Paul Copil"
 **Passionate System Engineer**, **Security & Privacy enthusiast** and **kernel dweller**. Strong adept of "KISS" (Keep it simple stupid) and <a href="http://principlesofchaos.org/?lang=ENcontent"> Chaos Engineering</a>.
 I develop and architect my projects as if the next person maintaining it knows my address and owns a gun.
 
-If you wish to find out more about my skills & background check the [about me](/about) page or skip directly.
+If you wish to find out more about my skills & background check the [about me](/about) page or check out [SUDOLESS](https://sudoless.com).
 
 To learn more about my projects and deeds check my [GitHub profile](https://github.com/cpl) or read any of the posts below.
 
